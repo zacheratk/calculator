@@ -40,7 +40,7 @@ body {
     border: none;
 }
 
-.operator {
+.operator, .equals {
     background-color: #C9ADA7;
 }
 
@@ -48,8 +48,7 @@ body {
     background-color: #22223B;
 }
 
-.operator:focus,
-.decimal:focus {
+.operator:focus {
     background-color: #22223B;
 }
 
